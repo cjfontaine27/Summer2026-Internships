@@ -1,8 +1,8 @@
 # Summer 2026 Tech Internships by Vansh & Ouckah
 
-The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2026**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
+The torch has been passed. Use this repo to share and keep track of cybersecurity internships for **Summer 2026**. The list is maintained collaboratively the Cybersecurity Consulting Club!
 
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
@@ -37,19 +37,16 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Internship application is closed
 
-> For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).
-
-> For new-grad tech jobs, check out [New-Grad](https://github.com/cvrve/New-Grad).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/vanshb03/Summer2026-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Freddie Mac | Technology Intern | McLean, VA | <a href="https://careers.freddiemac.com/us/en/job/JR16008/Technology-Intern-Summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
-| Datadog | Product Management Intern | New York, NY | <a href="https://careers.datadoghq.com/detail/7127832/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
-| Uline | DevOps Engineer Intern | Pleasant Prairie, WI | <a href="https://www.uline.jobs/JobDetails?jobid=R256306&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
-| PDT Partners | Software Engineering Intern | New York, NY | <a href="https://job-boards.greenhouse.io/pdtpartners/jobs/7073180?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
+| Grant Thornton | Technology Intern | McLean, VA | <a href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/112852/?keyword=Cybersecurity%20and%20Privacy%20Intern%20-%20Summer%202026&mode=location"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
+| PwC | Advisory Intern Intern | New York, NY | <a href="https://careers.datadoghq.com/detail/7127832/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
+| Capitol One | DevOps Engineer Intern | Pleasant Prairie, WI | <a href="https://www.uline.jobs/JobDetails?jobid=R256306&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
+| Bank of America | Cybersecurity Intern | New York, NY | <a href="https://job-boards.greenhouse.io/pdtpartners/jobs/7073180?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | ↳ | Systems Engineering Intern | New York, NY | <a href="https://job-boards.greenhouse.io/pdtpartners/jobs/7158038?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="https://www.uline.jobs/JobDetails?jobid=R256032&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | TransPerfect | Software Engineer Intern | New York, NY | <a href="https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
