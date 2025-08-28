@@ -1,4 +1,4 @@
-# Summer 2026 Cyber Internships by the Cybersecurity Consulting Club
+# Summer 2026 Internships by the Cybersecurity Consulting Club
 
 
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
@@ -22,15 +22,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PepsiCo | Technology Cybersecurity Intern | New York, NY | <a href="https://pennstate-csm.symplicity.com/students/app/jobs/detail/7a0dd3a46742a7798e4c957aec827d34"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Capitol One | Cyber Security Intern | Mclean, VA <br>Plano, TX  | <a href="https://pennstate-csm.symplicity.com/students/app/jobs/detail/6d7332e1b8b7be4f2b0f8a0ad52603b1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 5 |
 | Bank of America | Cybersecurity Intern | New York, NY | <a href="https://job-boards.greenhouse.io/pdtpartners/jobs/7073180?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
-| HPE | Cloud Engineer Intern | Spring, TX | <a href="https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Goldman Sachs | Analyst Intern | New York, NY | <a href="https://higher.gs.com/roles/150598"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Delta Air Lines, Inc. | IT Intern, Software Engineering | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Software-Engineering-ATL-Summer-2026/29180?jobId=29180&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Genworth | IT Intern | Richmond, VA | <a href="https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
-| Wells Fargo | 2026 Technology Summer Internship 🇺🇸 | Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO | <a href="https://www.wellsfargojobs.com/en/jobs/r-474982/2026-technology-summer-internship-early-careers-software-engineer/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
+| Wells Fargo | 2026 Technology Summer Internship | Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO | <a href="https://www.wellsfargojobs.com/en/jobs/r-474982/2026-technology-summer-internship-early-careers-software-engineer/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Jane Street | Network Engineer Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/8065576002/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Linux Engineer Intern, IT and Systems Engineering | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/8062907002/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Abbott | IT Intern 🛂 | Waukegan, IL | <a href="https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
-| Lockheed Martin | Cyber Software Engineering Intern | Herndon, VA | 🔒 | May 24 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
