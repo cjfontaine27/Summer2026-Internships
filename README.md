@@ -28,7 +28,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Wells Fargo | 2026 Technology Summer Internship | Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO | <a href="https://www.wellsfargojobs.com/en/jobs/r-474982/2026-technology-summer-internship-early-careers-software-engineer/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Jane Street | Network Engineer Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/8065576002/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Linux Engineer Intern, IT and Systems Engineering | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/8062907002/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| Abbott | IT Intern 🛂 | Waukegan, IL | <a href="https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
+| Abbott | IT Intern | Waukegan, IL | <a href="https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
